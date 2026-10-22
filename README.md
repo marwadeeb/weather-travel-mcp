@@ -2,7 +2,7 @@
 
 EECE 503P/798S Agentic Systems, Assignment C5. This is an MCP toolkit built with **FastMCP** and driven by an agent built with the **OpenAI Agents SDK**.
 
-- **Demo video:** _add link here_
+- **Demo video:** [Screencast on Google Drive](https://drive.google.com/file/d/14EI0Ygk96vxlxlGPge4uDdCGEtwZ5spI/view?usp=sharing)
 - **Written summary (Part 1):** [docs/SUMMARY.md](docs/SUMMARY.md)
 - **Reflection:** [docs/REFLECTION.md](docs/REFLECTION.md)
 
